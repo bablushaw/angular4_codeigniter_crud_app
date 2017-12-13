@@ -8,12 +8,12 @@ The Frontend is developed using Angular 4 with http request GET, POST, DELETE, P
 Some Importent points to be noted when you build this app
 
 Note:- Codeigniter Web Framework
-application/config/routes.php
-application/controllers/ems.php
+1. application/config/routes.php
+2. application/controllers/ems.php
 
 Note:- Angular4
-app/ems
-app/emp.service.ts
+2. app/ems
+2. app/emp.service.ts
 
 Setup:-
 1. Download app from github or clone this app
