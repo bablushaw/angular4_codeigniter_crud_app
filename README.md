@@ -15,6 +15,13 @@ Note:- Angular4
 1. app/ems
 2. app/emp.service.ts
 
+Note:- Mysql
+1. Create emsdb database in Mysql
+2. Import employees.sql
+
+Note:- XAMPP
+1. Save emsapi folder into xampp/htdocs
+
 Setup:-
 1. Download app from github or clone this app
 2. Unzip App
