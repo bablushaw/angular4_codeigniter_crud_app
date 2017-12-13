@@ -10,6 +10,8 @@ Some Importent points to be noted when you build this app
 Note:- Codeigniter Web Framework
 1. application/config/routes.php
 2. application/controllers/ems.php
+3. application/config/config.php
+4. application/config/database.php
 
 Note:- Angular4
 1. app/ems
