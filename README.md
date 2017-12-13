@@ -1,4 +1,4 @@
-# angular4_codeigniter3_crud_app
+# Angular4 Codeigniter3 CRUD App
 This is a CRUD App based on Angular4 and Codeigniter3. Using this app you can know how you can know how to integrate with Angular4 and Codeigniter 3 (Php Web Framework).
 
 The Frontend is developed using Angular 4 with http request GET, POST, DELETE, PUT.
