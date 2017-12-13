@@ -14,14 +14,14 @@ app/ems
 app/emp.service.ts
 
 Setup:-
-Download app from github or clone this app
-Unzip App
-Save app into xampp/htdocs
-start xampp server
-Open Folder Angular4 and open cmd prompt
-At cmd prompt type
-npm install
-npm start
+1. Download app from github or clone this app
+2. Unzip App
+3. Save app into xampp/htdocs
+4. start xampp server
+5. Open Folder Angular4 and open cmd prompt
+6. At cmd prompt type
+7. npm install
+8. npm start
 
 
 Enjoy!
