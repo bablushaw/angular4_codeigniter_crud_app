@@ -12,7 +12,7 @@ Note:- Codeigniter Web Framework
 2. application/controllers/ems.php
 
 Note:- Angular4
-2. app/ems
+1. app/ems
 2. app/emp.service.ts
 
 Setup:-
