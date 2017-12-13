@@ -5,7 +5,8 @@ The Frontend is developed using Angular 4 with http request GET, POST, DELETE, P
 
  The Backend is developed using Codeigniter 3 Web Framework and Mysql.
 
-Some Importent points to be noted when you build this app.
+Some Importent points to be noted when you build this app
+
 Note:- Codeigniter Web Framework
 application/config/routes.php
 application/controllers/ems.php
